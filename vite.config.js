@@ -5,7 +5,7 @@ import sass from "sass";
 // https://vitejs.dev/config/
 
 export default defineConfig({
-  base: "/nazwa-repozytorium/", // Zmień na nazwę swojego repozytorium [GitHub Pages](https://www.google.com/search?q=GitHub%20Pages)
+  base: "/SessionBreakTimer/", // Zmień na nazwę swojego repozytorium [GitHub Pages](https://www.google.com/search?q=GitHub%20Pages)
   build: {
     assetsDir: "", // Wyłączenie dodawania podkatalogu dla zasobów
   },
